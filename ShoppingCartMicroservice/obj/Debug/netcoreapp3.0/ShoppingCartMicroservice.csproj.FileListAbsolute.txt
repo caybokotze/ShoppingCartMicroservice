@@ -1,0 +1,12 @@
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\ShoppingCartMicroservice\ShoppingCartMicroservice\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\ShoppingCartMicroservice\ShoppingCartMicroservice\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\ShoppingCartMicroservice\ShoppingCartMicroservice\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\ShoppingCartMicroservice\ShoppingCartMicroservice\bin\Debug\netcoreapp3.0\ShoppingCartMicroservice.exe
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\ShoppingCartMicroservice\ShoppingCartMicroservice\obj\Debug\netcoreapp3.0\ShoppingCartMicroservice.csprojAssemblyReference.cache
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\ShoppingCartMicroservice\ShoppingCartMicroservice\obj\Debug\netcoreapp3.0\staticwebassets\ShoppingCartMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\ShoppingCartMicroservice\ShoppingCartMicroservice\obj\Debug\netcoreapp3.0\staticwebassets\ShoppingCartMicroservice.StaticWebAssets.xml
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\ShoppingCartMicroservice\ShoppingCartMicroservice\obj\Debug\netcoreapp3.0\ShoppingCartMicroservice.AssemblyInfoInputs.cache
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\ShoppingCartMicroservice\ShoppingCartMicroservice\obj\Debug\netcoreapp3.0\ShoppingCartMicroservice.AssemblyInfo.cs
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\ShoppingCartMicroservice\ShoppingCartMicroservice\obj\Debug\netcoreapp3.0\ShoppingCartMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\ShoppingCartMicroservice\ShoppingCartMicroservice\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Owin.dll
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\ShoppingCartMicroservice\ShoppingCartMicroservice\obj\Debug\netcoreapp3.0\ShoppingCartMicroservice.csproj.CopyComplete
